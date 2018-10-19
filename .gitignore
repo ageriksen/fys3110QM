@@ -1,0 +1,13 @@
+# ignore following
+
+
+#latex
+*.aux
+*.pdf
+*.log
+*.out
+*.gz
+*.dvi
+*.xml
+*.blg
+*.bcf
